@@ -34,22 +34,24 @@ http://axelivetv.net:25461/live/Clinic5690/141414/320.m3u8
 http://axelivetv.net:25461/live/Clinic5690/141414/49.m3u8
 #EXTINF:-1,Football Events
 http://axelivetv.net:25461/live/Clinic5690/141414/434.m3u8
+#EXTINF:-1,Football Events 2
+http://axelivetv.net:25461/live/Clinic5990/141414/433.m3u8
 #EXTINF:-1,ES: Bein Sports
 http://axelivetv.net:25461/live/Clinic5690/141414/72.m3u8
 #EXTINF:-1,Bein Sports N
 http://axelivetv.net:25461/live/Clinic5690/141414/152.m3u8
+#EXTINF:-1,BT Sports
+http://axelivetv.net:25461/live/Clinic5990/141414/30092938.m3u8
+#EXTINF:-1,BT Sports 2
+http://axelivetv.net:25461/live/Clinic5990/141414/30093104.m3u8
+#EXTINF:-1,BT Sports 3
+http://axelivetv.net:25461/live/Clinic5990/141414/30093105.m3u8
 #EXTINF:-1,USA: Bein Sports
 http://axelivetv.net:25461/live/Clinic5690/141414/281.m3u8
+#EXTINF:-1,Fubo Sports
+http://axelivetv.net:25461/live/Clinic5690/141414/30088878.m3u8
 #EXTINF:-1,NBA TV
 http://axelivetv.net:25461/live/Clinic5690/141414/30.m3u8
-#EXTINF:-1,NBA League Pass 1
-http://axelivetv.net:25461/live/Clinic5690/141414/419.m3u8
-#EXTINF:-1,NBA League Pass 2
-http://axelivetv.net:25461/live/Clinic5690/141414/420.m3u8
-#EXTINF:-1,NBA League Pass 3
-http://axelivetv.net:25461/live/Clinic5690/141414/421.m3u8
-#EXTINF:-1,NBA League Pass 4
-http://axelivetv.net:25461/live/Clinic5690/141414/422.m3u8
 #EXTINF:-1,DAZN 1
 http://axelivetv.net:25461/live/Clinic5690/141414/652.m3u8
 #EXTINF:-1,DAZN 2
@@ -66,6 +68,12 @@ http://axelivetv.net:25461/live/Clinic5690/141414/44.m3u8
 http://axelivetv.net:25461/live/Clinic5690/141414/45.m3u8
 #EXTINF:-1,ABC
 http://axelivetv.net:25461/live/Clinic5690/141414/34.m3u8
+#EXTINF:-1,Bloomberg
+http://axelivetv.net:25461/live/Clinic5990/141414/259.m3u8
+#EXTINF:-1,CBS News
+http://axelivetv.net:25461/live/Clinic5990/141414/109.m3u8
+#EXTINF:-1,CBS Sports Network
+http://axelivetv.net:25461/live/Clinic5990/141414/24.m3u8
 #EXTINF:-1,CNBC
 http://axelivetv.net:25461/live/Clinic5690/141414/27.m3u8
 #EXTINF:-1,CNN
@@ -98,5 +106,11 @@ http://axelivetv.net:25461/live/Clinic5690/141414/174.m3u8
 http://axelivetv.net:25461/live/Clinic5690/141414/239.m3u8
 #EXTINF:-1,PPV Latino
 http://axelivetv.net:25461/live/Clinic5690/141414/341.m3u8
-#EXTINF:-1,Fubo Sports
-http://axelivetv.net:25461/live/Clinic5690/141414/30088878.m3u8
+#EXTINF:-1,NBA League Pass 1
+http://axelivetv.net:25461/live/Clinic5690/141414/419.m3u8
+#EXTINF:-1,NBA League Pass 2
+http://axelivetv.net:25461/live/Clinic5690/141414/420.m3u8
+#EXTINF:-1,NBA League Pass 3
+http://axelivetv.net:25461/live/Clinic5690/141414/421.m3u8
+#EXTINF:-1,NBA League Pass 4
+http://axelivetv.net:25461/live/Clinic5690/141414/422.m3u8
